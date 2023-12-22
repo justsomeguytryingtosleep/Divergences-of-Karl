@@ -11,9 +11,9 @@ Features (0.1):
 
 
 Features (0.2):
--Council of Athens removed
--Council of Gran Colombia removed
 -Spain accepts Catalan now 
+-Bridge over Salach fixxed. Now without Aragon
+-Congress of Granada removed
 
 
 
