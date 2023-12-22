@@ -1,0 +1,21 @@
+This is a shitty SP DoD Version made by Karl. It is based on this version of DoD: https://github.com/Pergame35/Divergences 
+I believe this is the original DoD made by Kinniken but I am not really sure.
+
+
+
+Features (0.1):
+-No Danubians(dont like em)
+-Burgundy accepts Rhenish in 1850s :trollface:
+-Japan buffed(cores on manchuria and tech)
+-gfx less shiny
+
+
+Features (0.2):
+-Council of Athens removed
+-Council of Gran Colombia removed
+-Spain accepts Catalan now 
+
+
+
+Features(0.3): 
+-

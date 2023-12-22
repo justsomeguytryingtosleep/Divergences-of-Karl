@@ -1,0 +1,6 @@
+name = "Divergences of Karl 0.1"
+path = "mod/Divergences of Karl"
+user_dir = "DoD"
+replace_path = "events"
+replace_path = "decisions"
+replace_path = "history/provinces"
