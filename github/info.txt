@@ -1,6 +1,6 @@
 This is a shitty SP DoD Version made by Karl. It is based on this version of DoD: https://github.com/Pergame35/Divergences 
 I believe this is the original DoD made by Kinniken but I am not really sure.
-
+Current Version: 0.1
 
 
 Features (0.1):
